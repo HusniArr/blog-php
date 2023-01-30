@@ -176,7 +176,6 @@ body{
     width: 25%;
     border-right: 2px solid #0a358b;
     padding: 20px;
-    margin-top: 5px;
 }
 .footer .social span a{
     text-decoration: none;
@@ -189,7 +188,6 @@ body{
 .footer .copyright{
     width: 75%;
     padding: 20px;
-    margin-top: 5px;
 }
 .footer .copyright span{
     margin-left: 10px;

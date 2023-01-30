@@ -1,2 +1,2 @@
 <?php
-DEFINE('BASE_URL','index.php');
+DEFINE('BASE_URL','http://localhost/blog-php/');
