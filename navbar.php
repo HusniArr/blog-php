@@ -22,16 +22,16 @@
         </div>
         <div class="menu" id="menu">
             <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="about.html">About</a></li>
+                <li><a href="index.php">Home</a></li>
+                <li><a href="https://husni-resume.netlify.app" target="_blank">About</a></li>
                 <li class="dropdown">Tutorial<button class="icon">&rsaquo;</button>
                     <ul class="dropdown-content">
-                        <li><a href="tutorial.html">PHP</a></li>
-                        <li><a href="tutorial.html">PYTHON</a></li>
-                        <li><a href="tutorial.html">JAVA</a></li>
+                        <li><a href="tutorial.php">PHP</a></li>
+                        <li><a href="tutorial.php">PYTHON</a></li>
+                        <li><a href="tutorial.php">JAVA</a></li>
                     </ul>
                 </li>
-                <li><a href="contact.html">Contact</a></li>
-                <li><a href="login.html">Login</a></li>
+                <li><a href="contact.php">Contact</a></li>
+                <li><a href="login.php">Login</a></li>
             </ul>
         </div>

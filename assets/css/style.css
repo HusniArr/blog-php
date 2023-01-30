@@ -427,17 +427,18 @@ nav .breadcrumb .breadcrumb-item.active{
         border: 2px solid gray;
     }
     .navbar .search{
-        margin-left: 0;
+        margin-left: 8px;
+        width: 260px;
     }
     .navbar .search form input{
         height: 30px;
-        width: 120px;
+        width: 100px;
     }
     .toggle-bar{
         position:absolute;
         flex: 1;
-        margin-top: 6px;
-        margin-left: 260px;
+        margin-top: -8px;
+        margin-left: 180px;
         display: flex;
         flex-direction: column;
         justify-content: space-between;
@@ -469,13 +470,20 @@ nav .breadcrumb .breadcrumb-item.active{
         display: block;
     }
     .hero{
-        margin: 0;
+        margin-top: 10px;
         padding:0;
-        width:380px;
-        height:380px;
-        object-fit: cover;
-        background-size:contain;
+        width: 280px;
+        height:280px;
+        overflow-x: hidden;
+        background-size: contain;
         background-repeat: no-repeat;
+    }
+    .hero h1{
+        padding: 4px;
+    }
+    .hero p{
+        padding: 4px;
+        font-size: 18px;
     }
     .backTotop{
         left: 350px;
