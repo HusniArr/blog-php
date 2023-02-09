@@ -2,7 +2,7 @@
     <div class="app">
         <div class="header" id="top">
             <div class="logo">
-                <a href="index.html">
+                <a href="index.php">
                     <img src="<?php  BASE_URL ?>assets/img/logo/shark-logo.jpg" alt="logo">
                 </a>
             </div>
