@@ -154,7 +154,7 @@ body{
 /* hero */
 .hero{
     background-image: url('../img/profil.jpg');
-    width:595px;
+    width:540px;
     height:640px;
     box-sizing: border-box;
     object-fit: cover;
